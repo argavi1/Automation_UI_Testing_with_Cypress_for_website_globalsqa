@@ -4,4 +4,3 @@ export const nameHarryPotter = 'Harry Potter'
 export const loginBtn = '[class="btn btn-default"]'
 
 export const managerLoginBtn = '[ng-click="manager()"]'
-export const errorAlert = '[data-test=error]'
