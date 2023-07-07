@@ -1,4 +1,3 @@
 export const ROUTES = {
-    login: '/',
-    inventory: '/inventory.html'
+    login: '/angularJs-protractor/BankingProject/#/login'
 }
