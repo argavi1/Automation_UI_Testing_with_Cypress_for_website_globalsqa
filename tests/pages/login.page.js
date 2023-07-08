@@ -3,4 +3,4 @@ export const yournameDropdownList = '[name="userSelect"]'
 export const nameHarryPotter = 'Harry Potter'
 export const loginBtn = '[class="btn btn-default"]'
 
-export const managerLoginBtn = '[ng-click="manager()"]'
+export const managerLoginBtn = '[:nth-child(3) > .btn]'

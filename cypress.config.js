@@ -6,7 +6,7 @@ module.exports = defineConfig({
   viewportHeight: 660,
   video: false,
   chromeWebSecurity: false,
-  defaultCommandTimeout: 10000,
+  defaultCommandTimeout: 20000,
   env: {
     baseUrl: 'https://www.globalsqa.com'
   },

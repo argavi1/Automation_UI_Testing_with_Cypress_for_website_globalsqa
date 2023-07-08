@@ -1,3 +1,3 @@
 export const VALID_DEPOSIT = {
-    depositAmount: 100
+    depositAmount: 1000
 }
